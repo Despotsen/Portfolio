@@ -2,8 +2,6 @@
 /*
 a. Webfonts and Icon fonts
 */
-
-@import url("fonts.css");
 @import url("fontello/css/fontello.css");
 @import url("font-awesome/css/font-awesome.min.css");
 
@@ -60,8 +58,6 @@ pre {
    white-space: pre-wrap;
    word-wrap: break-word;
 }
-
-blockquote, q { quotes: &#8220 &#8220; }
 
 blockquote:before, blockquote:after,
 q:before, q:after {
