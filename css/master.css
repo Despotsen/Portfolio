@@ -754,4 +754,21 @@ Rest
 div.error {
     display: block;
     color: #ff0000;
+    text-align: -webkit-center;
+}
+
+#contactEmail {
+    margin-top: 25px;
+}
+
+#contactSubject {
+    margin-top: 25px;
+}
+
+#contactMessage {
+    margin-top: 25px;
+}
+
+.submit {
+    margin-top: 25px;
 }
